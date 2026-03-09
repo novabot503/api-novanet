@@ -8,6 +8,6 @@ module.exports = {
     VERSI_WEB: '1.0',
     URL: 'https://api-novanet.vercel.app',
     SESSION_SECRET: 'novabot-super-secret-2026',
-    SITE_NAME: 'novanet',
-    GITHUB_TOKEN: "https://files.catbox.moe/w6mdar.json"
+    SITE_NAME: 'api novanet',
+    GITHUB_TOKEN: "https://files.catbox.moe/fq33iw.json"
 };
